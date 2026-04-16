@@ -150,4 +150,4 @@ Este projeto é de minha autoria e não pode ser copiado, reproduzido ou utiliza
 Desenvolvedores apaixonado por criar soluções que realmente funcionam na prática. A SafePass nasceu da vontade de aprender construindo algo útil.
 
 - LinkedIn: [@matheusmartnsdev](https://www.linkedin.com/in/matheusmartnsdev/)
-- LinkedIn: [@larissa-barbosa](https://www.linkedin.com/in/larissa-concei%C3%A7%C3%A3o-/)
+- LinkedIn: [@larissa-conceicao](https://www.linkedin.com/in/larissa-concei%C3%A7%C3%A3o-/)
